@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "MachineSoup",
+    "owner": "Brandon Lamb",
+    "description": "Low-latency ingestion (IoT) service, machine learning processor, queryable results via pgsql module, with Data Scientists uploading code to test out various models."
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Hieu Phan"
+      }
+    ],
+    "diagrams": [],
+    "reviewer": "Hieu Phan"
+  }
+}
