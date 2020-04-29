@@ -10,7 +10,13 @@
         "name": "Hieu Phan"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "MachineSoup",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Hieu Phan"
   }
 }
